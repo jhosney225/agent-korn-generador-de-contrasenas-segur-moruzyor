@@ -1,0 +1,6 @@
+{
+  "name": "agent-korn-generador-de-contrasenas-segur-moruzyor",
+  "version": "1.0.0",
+  "description": "Proyecto de Korn [Gen20]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
